@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhinav Tummpadui
+- 👋 Hi, I’m Abhinav Tummapudi
 - 👀 I’m interested in Deep Learning, particularly in the feild of Computer Vision and Natural Language Processing
 - 🌱 I’m currently learning and digging deeper in the CV & NLP and creating a front end (using React) for the tasks/ projects which I have accomplished till date.
 - 💞️ I’m looking to collaborate on things that involves Deep Learning or Machine Learning
